@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0308c42.chunk.css",
+    "main.js": "/static/js/main.42015c24.chunk.js",
+    "main.js.map": "/static/js/main.42015c24.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0f6c8e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0f6c8e8.js.map",
+    "static/js/2.b9733442.chunk.js": "/static/js/2.b9733442.chunk.js",
+    "static/js/2.b9733442.chunk.js.map": "/static/js/2.b9733442.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.96420601f436f2e69d35fe29b92b2bf5.js": "/precache-manifest.96420601f436f2e69d35fe29b92b2bf5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c0308c42.chunk.css.map": "/static/css/main.c0308c42.chunk.css.map",
+    "static/js/2.b9733442.chunk.js.LICENSE.txt": "/static/js/2.b9733442.chunk.js.LICENSE.txt",
+    "static/media/china.jpeg": "/static/media/china.b4b741b4.jpeg",
+    "static/media/italy.jpeg": "/static/media/italy.32266625.jpeg",
+    "static/media/switzerland.jpeg": "/static/media/switzerland.16a7d871.jpeg",
+    "static/media/uk.jpeg": "/static/media/uk.bde138ba.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0f6c8e8.js",
+    "static/js/2.b9733442.chunk.js",
+    "static/css/main.c0308c42.chunk.css",
+    "static/js/main.42015c24.chunk.js"
+  ]
+}
